@@ -62,9 +62,10 @@ This app allows users to manage multiple projects and tasks with priority levels
 
 ## Screenshots
 
-![Sidebar with Projects](screenshots/sidebar.png)  
-![Todo List](screenshots/todo-list.png)  
-![Add/Edit Modal](screenshots/modal.png)  
+![Sidebar with Projects](<img width="1906" height="562" alt="لقطة الشاشة 2025-09-26 102840" src="https://github.com/user-attachments/assets/7e6ffc51-86be-4a69-a31b-b3ddb7af41bd" />)  
+![Todo List](<img width="952" height="561" alt="لقطة الشاشة 2025-09-26 102859" src="https://github.com/user-attachments/assets/ef56d040-4de6-488b-8711-5988df99cd35" />
+)  
+![Add/Edit Modal](<img width="1573" height="835" alt="لقطة الشاشة 2025-09-26 102943" src="https://github.com/user-attachments/assets/42feedb9-20d2-4ef0-bddd-eca9fa9a8b52" />)  
 
 ---
 
